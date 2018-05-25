@@ -20,7 +20,10 @@ $ nose2 tests
 ```
 
 # TODO
- - queue 
+ - queue
+ - requests to Police DB (stolen cars)
+ - DB for users/images
+ - game balance logic
  - deploy on Heroku
 
 
