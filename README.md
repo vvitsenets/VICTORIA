@@ -19,7 +19,7 @@ To run the tests:
 $ nose2 tests
 ```
 
-#TODO
+# TODO
  - queue 
  - deploy on Heroku
 
